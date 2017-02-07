@@ -1,6 +1,8 @@
 # marvin-webserver
 A Bootstrap-based Custom Server Web Links Page.
 
+![Picture](http://benjamin.secker.nz/static/images/marvin.png)
+
 **How to use:**
 
 1. Clone the repo
