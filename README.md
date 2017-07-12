@@ -1,5 +1,5 @@
 # marvin-webserver
-A Bootstrap-based Custom Server Web Links Page.
+A Bootstrap-based Custom Server Web Links Page. Built for my internal server, Marvin.
 
 ![Picture](http://benjamin.secker.nz/static/images/marvin.png)
 
